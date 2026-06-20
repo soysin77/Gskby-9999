@@ -1,2 +1,2 @@
 # Gskby-9999
-edit editor app
+just editor redmi 5
